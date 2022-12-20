@@ -1,8 +1,8 @@
-Sputtering calibration
+Sputtering calibration by Łukasz Frąckowiak
 
-OOP code with two classes.
+OOP source code of program to calibrate sputtering material in co-sputtering magnetron devices with two targets.
 
-Class point create object that contain information about sputtering alloy. Afterthat it calculate parameters of regresion line for Co and Tb element.
+Class point create object that contain information about sputtering alloy. After that it calculate parameters of regresion line for specific alloys. molecular_database.xlsx contains values of molecular volumes for elements.
 
 
-Class app_window create GUI object using tkinter package. Under development
+Class app_window create GUI object using tkinter package.
